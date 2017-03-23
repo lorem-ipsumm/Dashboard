@@ -1,9 +1,9 @@
-##Dashboard
+## Dashboard
 
 Dashboard that displays on my TV when I'm not watching it! The news it obtained through News API and the Weather is obtained from Open Weather API
 
 
-##Sources
+## Sources
 
 * News API: https://newsapi.org/#apiArticles
 
