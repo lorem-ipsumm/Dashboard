@@ -12,3 +12,12 @@ Dashboard that displays on my TV when I'm not watching it! The news it obtained 
 * Help getting into "kiosk" mode: https://medium.com/@icebob/jessie-on-raspberry-pi-2-with-docker-and-chromium-c43b8d80e7e1#.8fvclfwdk
 
 * Several StackOverflow pages
+
+
+
+
+# Screen View
+![Screen View](http://i.imgur.com/AEy7DGG.png)
+
+# TV View (poor quality)
+![Screen View](http://i.imgur.com/qmlPhpo.jpg)
